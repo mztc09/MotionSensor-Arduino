@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T09:44:19.207100-07:00",
+  "generated_at": "2026-11-18T16:10:25.319642-07:00",
   "timezone": "America/Vancouver",
   "date": "2026-11-18",
   "location": "Pritchard Dining Hall, UBC Okanagan",
@@ -5149,6 +5149,44 @@
           ]
         },
         {
+          "name": "Teriyaki Sauce",
+          "station": null,
+          "category": null,
+          "description": null,
+          "ingredients": "HONTERI MIRIN STYLE SAUCE (Glucose syrup, water, spirit vinegar, fermented rice alcohol \n(less than 0.5% alcohol, water, rice, salt, rice malt), sugar, acidity regulator: citric acid, cane molasses), \n\nCORNSTARCH, WATER, \n\nGOLDEN YELLOW SUGAR, \n\nGF TAMARI SOY SAUCE (Water, Soybeans, Salt, Sugar, Brewing Starter (Aspergillus Sojae))",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "Soy",
+            "Sulphites",
+            "Vegetarian",
+            "Vegan",
+            "Made Without Gluten"
+          ]
+        },
+        {
+          "name": "Korean Sweet Chili Sauce",
+          "station": null,
+          "category": null,
+          "description": null,
+          "ingredients": "KETCHUP (Tomato paste (from fresh, ripe tomatoes), Sugar, Vinegar, Salt, Spices), \n\nGF TAMARI SOY SAUCE (Water, Soybeans, Salt, Sugar, Brewing Starter (Aspergillus Sojae)), \n\nGARLIC, RED PEPPER FLAKES, SUGAR, SALT, BROWN SUGAR, \n\nGOCHUJANG KOREAN HOT PEPPER PASTE (Korean chili powder, glutinous rice, fermented soybeans, and salt)",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "Soy",
+            "Sulphites",
+            "Vegetarian",
+            "Vegan",
+            "Made Without Gluten"
+          ]
+        },
+        {
           "name": "Local Seasonal Vegetables",
           "station": null,
           "category": null,
@@ -9324,6 +9362,44 @@
             "Wheat",
             "Vegetarian",
             "Vegan"
+          ]
+        },
+        {
+          "name": "Teriyaki Sauce",
+          "station": null,
+          "category": null,
+          "description": null,
+          "ingredients": "HONTERI MIRIN STYLE SAUCE (Glucose syrup, water, spirit vinegar, fermented rice alcohol \n(less than 0.5% alcohol, water, rice, salt, rice malt), sugar, acidity regulator: citric acid, cane molasses), \n\nCORNSTARCH, WATER, \n\nGOLDEN YELLOW SUGAR, \n\nGF TAMARI SOY SAUCE (Water, Soybeans, Salt, Sugar, Brewing Starter (Aspergillus Sojae))",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "Soy",
+            "Sulphites",
+            "Vegetarian",
+            "Vegan",
+            "Made Without Gluten"
+          ]
+        },
+        {
+          "name": "Korean Sweet Chili Sauce",
+          "station": null,
+          "category": null,
+          "description": null,
+          "ingredients": "KETCHUP (Tomato paste (from fresh, ripe tomatoes), Sugar, Vinegar, Salt, Spices), \n\nGF TAMARI SOY SAUCE (Water, Soybeans, Salt, Sugar, Brewing Starter (Aspergillus Sojae)), \n\nGARLIC, RED PEPPER FLAKES, SUGAR, SALT, BROWN SUGAR, \n\nGOCHUJANG KOREAN HOT PEPPER PASTE (Korean chili powder, glutinous rice, fermented soybeans, and salt)",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "Soy",
+            "Sulphites",
+            "Vegetarian",
+            "Vegan",
+            "Made Without Gluten"
           ]
         },
         {
