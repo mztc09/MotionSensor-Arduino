@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T08:19:12.991907-07:00",
+  "generated_at": "2026-11-27T16:35:50.359112-07:00",
   "timezone": "America/Vancouver",
   "date": "2026-11-27",
   "location": "Pritchard Dining Hall, UBC Okanagan",
@@ -193,24 +193,6 @@
           ]
         },
         {
-          "name": "Banana Milkshake",
-          "station": null,
-          "category": null,
-          "description": null,
-          "ingredients": "BANANA, \n\nSOY MILK (Organic soy base (water, organic soybeans), Cane sugar, Canola oil, Sea salt, Carrageenan, Dipotassium phosphate, Natural flavour, Sodium citrate), \n\nVANILLA, \n\nAGAVE,\n\nWATER",
-          "serving_size": {
-            "amount": null,
-            "unit": null
-          },
-          "nutrition": {},
-          "dietary_icons": [
-            "Soy",
-            "Vegetarian",
-            "Vegan",
-            "Made Without Gluten"
-          ]
-        },
-        {
           "name": "Almond Berry Smoothie",
           "station": null,
           "category": null,
@@ -223,6 +205,24 @@
           "nutrition": {},
           "dietary_icons": [
             "Tree Nuts (Almonds)",
+            "Vegetarian",
+            "Vegan",
+            "Made Without Gluten"
+          ]
+        },
+        {
+          "name": "Banana Milkshake",
+          "station": null,
+          "category": null,
+          "description": null,
+          "ingredients": "BANANA, \n\nSOY MILK (Organic soy base (water, organic soybeans), Cane sugar, Canola oil, Sea salt, Carrageenan, Dipotassium phosphate, Natural flavour, Sodium citrate), \n\nVANILLA, \n\nAGAVE,\n\nWATER",
+          "serving_size": {
+            "amount": null,
+            "unit": null
+          },
+          "nutrition": {},
+          "dietary_icons": [
+            "Soy",
             "Vegetarian",
             "Vegan",
             "Made Without Gluten"
